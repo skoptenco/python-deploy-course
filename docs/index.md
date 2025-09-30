@@ -7,3 +7,5 @@
 [About](/about)
 
 [Games](/games)
+
+[Отчет тут](report)
